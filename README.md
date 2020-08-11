@@ -4,4 +4,4 @@ Adam is a high energy, passionate early adopter of many things IT. He loves to h
 
 Adam has 20 years of experience in web application development, and he has spent the last two deeply involved in application support. Adam now leads a team of incredible SREs and couldn’t be happier!
 
-Outside of work, he suffers from ‘Multiple Hobby Syndrome’ — much to his wife’s dismay — and enjoys brewing his own beer, hunting and the outdoors, singing with the Sound of Illinois barbershop chorus and his Barbershop Quartet. Adam’s family includes his Wife (mentioned above), 8 year old son, and 2 year old twins.
+Outside of work, he suffers from ‘Multiple Hobby Syndrome’ — much to his wife’s dismay — and enjoys brewing his own beer, hunting and the outdoors, singing with the Sound of Illinois barbershop chorus and his Barbershop Quartet. Adam’s family includes his Wife (mentioned above), 9 year old son, and 3 year old twins.
